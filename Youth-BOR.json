@@ -1,0 +1,210 @@
+{
+  "title": "Youth BOR - Arrest/Detain",
+  "questions": [
+    {
+      "title": "Ensure all advice is provided in a language and manner that the child/young person can understand.\n\nAny nominated person also needs to be advised of these rights.\n\nAsk the youth to explain in their own words what each right means to them, and capture their response below.",
+      "sequence": 0,
+      "style": "info",
+      "allowedAnswers": [
+        {
+          "type": "none",
+          "value": "none"
+        }
+      ],
+      "answers": [
+        {
+          "type": "not_yet_answered",
+          "value": "none"
+        }
+      ]
+    },
+    {
+      "title": "You have been:",
+      "sequence": 1,
+      "style": "numeric",
+      "allowedAnswers": [
+        {
+          "value": "Arrested",
+          "type": "choice"
+        },
+        {
+          "value": "Detained",
+          "type": "choice"
+        }
+      ],
+      "answers": [
+        {
+          "type": "not_yet_answered",
+          "value": "none"
+        }
+      ]
+    },
+    {
+      "title": "The reason for this is:",
+      "sequence": 2,
+      "style": "numeric",
+      "allowedAnswers": [
+        {
+          "value": "Enter response…",
+          "type": "free_text"
+        }
+      ],
+      "answers": [
+        {
+          "type": "not_yet_answered",
+          "value": "none"
+        }
+      ]
+    },
+    {
+      "title": "You have the right to remain silent.\n\nPlease explain in your own words what this means to you.",
+      "sequence": 3,
+      "style": "numeric",
+      "allowedAnswers": [
+        {
+          "value": "Enter response…",
+          "type": "free_text"
+        },
+        {
+          "value": "Refused to Answer",
+          "type": "quick_choice"
+        }
+      ],
+      "answers": [
+        {
+          "type": "not_yet_answered",
+          "value": "none"
+        }
+      ]
+    },
+    {
+      "title": "You do not have to make any statement or answer any questions.\n\nPlease explain in your own words what this means to you.",
+      "sequence": 4,
+      "style": "numeric",
+      "allowedAnswers": [
+        {
+          "value": "Enter response…",
+          "type": "free_text"
+        },
+        {
+          "value": "Refused to Answer",
+          "type": "quick_choice"
+        }
+      ],
+      "answers": [
+        {
+          "type": "not_yet_answered",
+          "value": "none"
+        }
+      ]
+    },
+    {
+      "title": "If you agree to make a statement and/or answer any questions you can change your mind and stop at any time.\n\nPlease explain in your own words what this means to you.",
+      "sequence": 5,
+      "style": "numeric",
+      "allowedAnswers": [
+        {
+          "value": "Enter response…",
+          "type": "free_text"
+        },
+        {
+          "value": "Refused to Answer",
+          "type": "quick_choice"
+        }
+      ],
+      "answers": [
+        {
+          "type": "not_yet_answered",
+          "value": "none"
+        }
+      ]
+    },
+    {
+      "title": "Anything you say will be recorded and may be given in evidence in court - this means if you are taken to court for [offence] what you say to me may be retold to the judge or jury.\n\nPlease explain in your own words what this means to you.",
+      "sequence": 6,
+      "style": "numeric",
+      "allowedAnswers": [
+        {
+          "value": "Enter response…",
+          "type": "free_text"
+        },
+        {
+          "value": "Refused to Answer",
+          "type": "quick_choice"
+        }
+      ],
+      "answers": [
+        {
+          "type": "not_yet_answered",
+          "value": "none"
+        }
+      ]
+    },
+    {
+      "title": "You have the right to speak with a lawyer or any person nominated by you or both without delay and in private before deciding whether to make any statement or answer any questions.\n\nPlease explain in your own words what this means to you.",
+      "sequence": 7,
+      "style": "numeric",
+      "allowedAnswers": [
+        {
+          "value": "Enter response…",
+          "type": "free_text"
+        },
+        {
+          "value": "Refused to Answer",
+          "type": "quick_choice"
+        }
+      ],
+      "answers": [
+        {
+          "type": "not_yet_answered",
+          "value": "none"
+        }
+      ]
+    },
+    {
+      "title": "You have the right to have your lawyer or nominated person or both with you while you make any statement or answer any questions.\n\nPlease explain in your own words what this means to you.",
+      "sequence": 8,
+      "style": "numeric",
+      "allowedAnswers": [
+        {
+          "value": "Enter response…",
+          "type": "free_text"
+        },
+        {
+          "value": "Refused to Answer",
+          "type": "quick_choice"
+        }
+      ],
+      "answers": [
+        {
+          "type": "not_yet_answered",
+          "value": "none"
+        }
+      ]
+    },
+    {
+      "title": "Police have a list of lawyers you may speak to for free.\n\nPlease explain in your own words what this means to you.",
+      "sequence": 9,
+      "style": "numeric",
+      "allowedAnswers": [
+        {
+          "value": "Enter response…",
+          "type": "free_text"
+        },
+        {
+          "value": "Refused to Answer",
+          "type": "quick_choice"
+        }
+      ],
+      "answers": [
+        {
+          "type": "not_yet_answered",
+          "value": "none"
+        }
+      ]
+    }
+  ],
+  "definitionVersion": "V1",
+  "identifier": "youth-bor-arrest-detain-v1",
+  "type": 3
+}
