@@ -1,0 +1,96 @@
+{
+  "definitionVersion": "V1",
+  "typeCd": 1,
+  "identifier": "tenr-v1",
+  "title": "TENR",
+  "questions": [
+    {
+      "sequence": 0,
+      "title": "Threat",
+      "subtitle": "Any individual, act or anything likely to cause harm",
+      "styleCd": 2,
+      "allowedAnswers": [
+        {
+          "optionCd": 2,
+          "value": "Enter your assessment…"
+        },
+        { 
+          "optionCd": 5,
+          "value": "none"
+        }
+      ],
+      "answers": [
+        { 
+          "optionCd": 2, 
+          "value": "Tim Stephen Williams, blunt weapon." 
+        }
+      ]
+    },
+    {
+      "sequence": 1,
+      "title": "Exposure",
+      "subtitle": "Potential for harm to people or security of places",
+      "style": 2,
+      "allowedAnswers": [
+        {
+          "optionCd": 2,
+          "value": "Enter your assessment…"
+        },
+        { 
+          "optionCd": 5,
+          "value": "none"
+        }
+      ],
+      "answers": [
+        { 
+          "optionCd": 2, 
+          "value": "Myself, Williams, members of the public." 
+        }
+      ]
+    },
+    {
+      "sequence": 2,
+      "title": "Necessity",
+      "subtitle": "To act now, act later or not at all",
+      "style": 2,
+      "allowedAnswers": [
+        {
+          "optionCd": 2,
+          "value": "Enter your assessment…"
+        },
+        { 
+          "optionCd": 5,
+          "value": "none"
+        }
+      ],
+      "answers": [
+        { 
+          "optionCd": 2, 
+          "value": "Immediate action required."
+        }
+      ]
+    },
+    {
+      "sequence": 3,
+      "title": "Response",
+      "subtitle": "Proportionate, timely and appropriate tactics",
+      "style": 2,
+      "allowedAnswers": [
+        {
+          "optionCd": 2,
+          "value": "Enter your assessment…"
+        },
+        {
+          "optionCd": 5,
+          "value": "none"
+        }
+      ],
+      "answers": [
+        { 
+          "optionCd": 2, 
+          "value": "Detain Williams."
+        }
+      ]
+    }
+  ]
+}
